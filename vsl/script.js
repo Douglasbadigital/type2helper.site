@@ -7,7 +7,7 @@ const CONFIG = {
     // Exemplo: "34:00" = 34 minutos | "00:30" = 30 segundos (para testes)
     // Nota: 3 segundos extras são adicionados automaticamente como
     // compensação pelo tempo médio até o lead dar play no vídeo
-    tempoDeDelay: "23:00",
+    tempoDeDelay: "00:15",
 
     // 🔗 Links de Checkout dos Botões (GLPatches)
     linkPote2: "https://lifebalancepeak.com/b?p=GPP2V1&b=341&fid=640&fnid=2&pfnid=1&pg=9467&aff_id=1002",
